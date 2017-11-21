@@ -1,2 +1,3 @@
 # RecyclerView
-Implementation of Recycler view in android - sample code 
+
+Sample Code for implementation of Recycler view in android
